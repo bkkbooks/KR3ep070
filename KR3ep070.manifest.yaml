@@ -1,0 +1,1199 @@
+canonical_identifier: bkk:krp/KR3ep070/v1
+canonical_location: https://kanripo.org/bkk/KR3ep070/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 經方實驗錄
+  identifiers:
+    krp: KR3ep070
+  tags:
+    kr-categories: KR3ep
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep070.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3ep070_001.yaml, hash: 'sha256:375b46e0c4c2d98481ec13a35ea8e4a5ce88e43824ea3b014714c57a15b36d9d'}
+  - {seq: 0, filename: KR3ep070_000.yaml, hash: 'sha256:cb4e5959756d2ace4092651fc593a2952fc3d102f1380c3bd44960729be1ab6b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ep070_001.markers.yaml, hash: 'sha256:d550e33fa761a24d3bd03f04751b80d8d9dce704d4baadf7c4a91f7f1bab5614'}
+  - {seq: 0, role: markers, filename: assets/KR3ep070_000.markers.yaml, hash: 'sha256:3655a054bf513d653462f1791341bb6e1aeb3b442e4ffcb2bb0ac8f9c2e67e0f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 8424
+  label: 第一集卷首
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d2
+    span:
+    - body
+    - 5
+    - 764
+  label: 序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d3
+    span:
+    - body
+    - 764
+    - 1028
+  label: 章序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d4
+    span:
+    - body
+    - 1028
+    - 1702
+  label: 邵序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d5
+    span:
+    - body
+    - 1702
+    - 2716
+  label: 葉序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d6
+    span:
+    - body
+    - 2716
+    - 2960
+  label: 熊序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d7
+    span:
+    - body
+    - 2960
+    - 4686
+  label: 殷序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d8
+    span:
+    - body
+    - 4686
+    - 5105
+  label: 楊序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d9
+    span:
+    - body
+    - 5105
+    - 5494
+  label: 尹序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d10
+    span:
+    - body
+    - 5494
+    - 5984
+  label: 張序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d11
+    span:
+    - body
+    - 5984
+    - 6729
+  label: 吳序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d12
+    span:
+    - body
+    - 6729
+    - 8314
+  label: 張仲景事狀考
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d2d13
+    span:
+    - body
+    - 8314
+    - 8424
+  label: 編按者自序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3.h1s1
+    span:
+    - body
+    - 8424
+    - 53255
+  label: 第一集上卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d2
+    span:
+    - body
+    - 8429
+    - 9418
+  label: 第一案桂枝湯證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d3
+    span:
+    - body
+    - 9418
+    - 10115
+  label: 第二案桂枝湯證其二穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d4
+    span:
+    - body
+    - 10115
+    - 10618
+  label: 第三案桂枝湯證其三穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d5
+    span:
+    - body
+    - 10618
+    - 14075
+  label: 第四案桂枝湯證其四佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d6
+    span:
+    - body
+    - 14075
+    - 14721
+  label: 第五案桂枝湯證其五佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d7
+    span:
+    - body
+    - 14721
+    - 16634
+  label: 第六案桂枝湯證其六佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d8
+    span:
+    - body
+    - 16634
+    - 17427
+  label: 第七案麻黃湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d9
+    span:
+    - body
+    - 17427
+    - 18018
+  label: 第八案麻黃湯證其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d10
+    span:
+    - body
+    - 18018
+    - 19191
+  label: 第九案麻黃湯證其三穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d11
+    span:
+    - body
+    - 19191
+    - 19647
+  label: 第一案麻黃湯證其四穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d12
+    span:
+    - body
+    - 19647
+    - 22153
+  label: 第一一案麻黃湯證其五穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d13
+    span:
+    - body
+    - 22153
+    - 24173
+  label: 第一二案葛根湯證其一穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d14
+    span:
+    - body
+    - 24173
+    - 25064
+  label: 第一三案葛根湯證其二穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d15
+    span:
+    - body
+    - 25064
+    - 27678
+  label: 第一四案葛根湯證其三穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d16
+    span:
+    - body
+    - 27678
+    - 28369
+  label: 第一五案葛根湯證其四穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d17
+    span:
+    - body
+    - 28369
+    - 29971
+  label: 第一六案葛根湯證其五穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d18
+    span:
+    - body
+    - 29971
+    - 31102
+  label: 第一七案白虎湯證其一穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d19
+    span:
+    - body
+    - 31102
+    - 32303
+  label: 第一八案白虎湯證其二穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d20
+    span:
+    - body
+    - 32303
+    - 32699
+  label: 第一九案白虎湯證其三佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d21
+    span:
+    - body
+    - 32699
+    - 33102
+  label: 第二案白虎湯證其四佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d22
+    span:
+    - body
+    - 33102
+    - 33558
+  label: 第二一案麻黃杏仁甘草石膏湯證其一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d23
+    span:
+    - body
+    - 33558
+    - 34150
+  label: 第二二案麻黃杏仁甘草石膏湯證其二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d24
+    span:
+    - body
+    - 34150
+    - 35592
+  label: 第二三案麻黃杏仁甘草石膏湯證其三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d25
+    span:
+    - body
+    - 35592
+    - 37715
+  label: 第二四案麻黃杏仁甘草石膏湯證其四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d26
+    span:
+    - body
+    - 37715
+    - 38458
+  label: 第二五案葛根黃連黃芩湯證其一佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d27
+    span:
+    - body
+    - 38458
+    - 39198
+  label: 第二六案葛根黃連黃芩湯證其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d28
+    span:
+    - body
+    - 39198
+    - 41577
+  label: 第二七案葛根黃連黃芩湯證其三佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d29
+    span:
+    - body
+    - 41577
+    - 42276
+  label: 第二八案葛根黃連黃芩湯證其四穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d30
+    span:
+    - body
+    - 42276
+    - 43204
+  label: 第二九案大承氣湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d31
+    span:
+    - body
+    - 43204
+    - 43870
+  label: 第三案大承氣湯證其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d32
+    span:
+    - body
+    - 43870
+    - 45019
+  label: 第三一案大承氣湯證其三穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d33
+    span:
+    - body
+    - 45019
+    - 47171
+  label: 第三二案大承氣湯證其四穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d34
+    span:
+    - body
+    - 47171
+    - 47758
+  label: 第三三案大承氣湯證其五穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d35
+    span:
+    - body
+    - 47758
+    - 47837
+  label: 第三四案小承氣湯證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d3d36
+    span:
+    - body
+    - 47837
+    - 53255
+  label: 第三五案調胃承氣湯證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4.h1s1
+    span:
+    - body
+    - 53255
+    - 89898
+  label: 第一集中卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d2
+    span:
+    - body
+    - 53260
+    - 53934
+  label: 第三六案桂枝二麻黃一湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d3
+    span:
+    - body
+    - 53934
+    - 55179
+  label: 第三七案桂枝二麻黃一湯證其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d4
+    span:
+    - body
+    - 55179
+    - 55427
+  label: 第三八案桂枝麻黃各半湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d5
+    span:
+    - body
+    - 55427
+    - 55981
+  label: 第三九案桂枝麻黃各半湯證其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d6
+    span:
+    - body
+    - 55981
+    - 56348
+  label: 第四案桂枝加大黃湯證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d7
+    span:
+    - body
+    - 56348
+    - 57573
+  label: 第四一案白虎加桂枝湯證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d8
+    span:
+    - body
+    - 57573
+    - 60057
+  label: 第四二案麻黃附子甘草湯證佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d9
+    span:
+    - body
+    - 60057
+    - 61165
+  label: 第四三案小青龍湯證其一佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d10
+    span:
+    - body
+    - 61165
+    - 62964
+  label: 第四四案小青龍湯證其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d11
+    span:
+    - body
+    - 62964
+    - 63256
+  label: 第四五案射干麻黃湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d12
+    span:
+    - body
+    - 63256
+    - 64181
+  label: 第四六案射干麻黃湯證其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d13
+    span:
+    - body
+    - 64181
+    - 64426
+  label: 第四七案苓甘五味加姜辛半夏杏仁湯證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d14
+    span:
+    - body
+    - 64426
+    - 64933
+  label: 第四八案皂莢丸證其一穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d15
+    span:
+    - body
+    - 64933
+    - 65203
+  label: 第四九案皂莢丸證其二穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d16
+    span:
+    - body
+    - 65203
+    - 65498
+  label: 第五案皂莢丸證其三穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d17
+    span:
+    - body
+    - 65498
+    - 66663
+  label: 第五一案皂莢丸證其四穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d18
+    span:
+    - body
+    - 66663
+    - 66977
+  label: 第五二案澤瀉湯證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d19
+    span:
+    - body
+    - 66977
+    - 67637
+  label: 第五三案桂枝加龍骨牡蠣湯證其一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d20
+    span:
+    - body
+    - 67637
+    - 68808
+  label: 第五四案桂枝加龍骨牡蠣湯證其二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d21
+    span:
+    - body
+    - 68808
+    - 69096
+  label: 第五五案炙甘草湯證其一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d22
+    span:
+    - body
+    - 69096
+    - 69450
+  label: 第五六案炙甘草湯證其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d23
+    span:
+    - body
+    - 69450
+    - 70964
+  label: 第五七案炙甘草湯證其三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d24
+    span:
+    - body
+    - 70964
+    - 71503
+  label: 第五八案小建中湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d25
+    span:
+    - body
+    - 71503
+    - 71778
+  label: 第五九案小建中湯證其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d26
+    span:
+    - body
+    - 71778
+    - 71949
+  label: 第六案當歸建中湯證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d27
+    span:
+    - body
+    - 71949
+    - 74378
+  label: 第六一案黃耆建中湯證佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d28
+    span:
+    - body
+    - 74378
+    - 74521
+  label: 第六二案芍藥甘草湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d29
+    span:
+    - body
+    - 74521
+    - 75827
+  label: 第六三案芍藥甘草湯證其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d30
+    span:
+    - body
+    - 75827
+    - 80077
+  label: 第六四案大陷胸湯證其一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d31
+    span:
+    - body
+    - 80077
+    - 81760
+  label: 第六五案大陷胸湯證其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d32
+    span:
+    - body
+    - 81760
+    - 83205
+  label: 第六六案桃核承氣湯證其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d33
+    span:
+    - body
+    - 83205
+    - 83490
+  label: 第六七案桃核承氣湯證其二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d34
+    span:
+    - body
+    - 83490
+    - 85084
+  label: 第六八案桃核承氣湯證其三佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d35
+    span:
+    - body
+    - 85084
+    - 86610
+  label: 第六九案抵當湯證其一穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d36
+    span:
+    - body
+    - 86610
+    - 86898
+  label: 第七案抵當湯證其二穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d37
+    span:
+    - body
+    - 86898
+    - 87920
+  label: 第七一案抵當湯證其三穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d38
+    span:
+    - body
+    - 87920
+    - 88182
+  label: 第七二案抵當丸證穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d39
+    span:
+    - body
+    - 88182
+    - 88838
+  label: 第七三案白頭翁湯證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d40
+    span:
+    - body
+    - 88838
+    - 89648
+  label: 第七四案豬膽汁導證穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d4d41
+    span:
+    - body
+    - 89648
+    - 89898
+  label: 第七五案麻子仁丸證穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5.h1s1
+    span:
+    - body
+    - 89898
+    - 128546
+  label: 第一集下卷
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d2
+    span:
+    - body
+    - 89903
+    - 90832
+  label: 第七六案神志恍惚佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d3
+    span:
+    - body
+    - 90832
+    - 92753
+  label: 第七七案腸癰其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d4
+    span:
+    - body
+    - 92753
+    - 93630
+  label: 第七八案腸癰其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d5
+    span:
+    - body
+    - 93630
+    - 98277
+  label: 第七九案腸癰其三穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d6
+    span:
+    - body
+    - 98277
+    - 101479
+  label: 第八案肺癰其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d7
+    span:
+    - body
+    - 101479
+    - 105998
+  label: 第八一案肺癰其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d8
+    span:
+    - body
+    - 105998
+    - 108622
+  label: 第八二案懸飲其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d9
+    span:
+    - body
+    - 108622
+    - 109817
+  label: 第八三案懸飲其二穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d10
+    span:
+    - body
+    - 109817
+    - 110070
+  label: 第八四案奔豚其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d11
+    span:
+    - body
+    - 110070
+    - 114803
+  label: 第八五案奔豚其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d12
+    span:
+    - body
+    - 114803
+    - 115533
+  label: 第八六案歷節其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d13
+    span:
+    - body
+    - 115533
+    - 116091
+  label: 第八七案歷節其二佐景醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d14
+    span:
+    - body
+    - 116091
+    - 116951
+  label: 第八八案發背腦疽穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d15
+    span:
+    - body
+    - 116951
+    - 117777
+  label: 第八九案汗後致虛穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d16
+    span:
+    - body
+    - 117777
+    - 118514
+  label: 第九案太陽轉陽明其一穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d17
+    span:
+    - body
+    - 118514
+    - 118641
+  label: 第九一案太陽轉陽明其二穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d18
+    span:
+    - body
+    - 118641
+    - 118767
+  label: 第九二案太陽轉陽明其三穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d19
+    span:
+    - body
+    - 118767
+    - 119440
+  label: 第九三案太陽轉陽明其四穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d20
+    span:
+    - body
+    - 119440
+    - 119803
+  label: 第九四案暑天陽明病穎師親撰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d21
+    span:
+    - body
+    - 119803
+    - 121070
+  label: 第九五案產後陽明病穎師講授佐景筆記
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d22
+    span:
+    - body
+    - 121070
+    - 121924
+  label: 第九六案陽明大實穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d23
+    span:
+    - body
+    - 121924
+    - 124062
+  label: 第九七案陽明戰汗穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d24
+    span:
+    - body
+    - 124062
+    - 124640
+  label: 第九八案陽明嘔多穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d25
+    span:
+    - body
+    - 124640
+    - 126989
+  label: 第九九案陽明津竭穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ep070_jc_001-d5d26
+    span:
+    - body
+    - 126989
+    - 128546
+  label: 第一案陽明鼻衄穎師醫案
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep070_jc_000-d6.h1s1
+    span:
+    - body
+    - 0
+    - 563
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:909ca8fa09f02894f648f8b4c6cbda5127c1aa1474dd8b156276ae2e06c10086
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
